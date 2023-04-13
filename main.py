@@ -3,7 +3,7 @@ import asyncio
 from discord.ext import commands
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'token'
 
 
 intents = discord.Intents.default()
